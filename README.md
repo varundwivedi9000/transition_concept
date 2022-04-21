@@ -1,16 +1,16 @@
-# transition_concept
+# Travel App Transition Concept
+This project is an attempt to recreate Travel app transition conept designed by Sam Atmore (Kiwi Sam) using Flutter.
 
-A new Flutter project.
+[Link to Original UI Concept](https://dribbble.com/shots/5426454-Travel-app-transition-conept)
 
-## Getting Started
+## Working Example
 
-This project is a starting point for a Flutter application.
+![Original UI Concept](https://cdn.dribbble.com/users/912634/screenshots/5426454/media/516b00de539677247a2b12dc9646904b.gif)
+Original UI Concept
 
-A few resources to get you started if this is your first Flutter project:
+![Recreated by this app](https://github.com/varundwivedi9000/transition_concept/blob/main/docs/gif/example.gif?raw=true)
+Recreated by this app
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## To Do
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Complete remaining UI styles and animations.
